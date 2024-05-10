@@ -1,1 +1,1 @@
-Codewars sample
+Codewars sample 12
